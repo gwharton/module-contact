@@ -29,7 +29,7 @@
             </action>
         </referenceBlock>
         <referenceContainer name="content">
-            <referenceBlock name="contactForm" template="Gw_Misc::contact.phtml" />
+            <referenceBlock name="contactForm" template="Gw_Contact::contact.phtml" />
         </referenceContainer>
     </body>
 </page>
